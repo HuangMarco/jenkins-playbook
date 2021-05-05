@@ -113,3 +113,4 @@ node {   #1
 
 **注意：**在pipeline >> Definition栏目中，选择scm.
 
+![jenkins](zResources/jenkins.png)
